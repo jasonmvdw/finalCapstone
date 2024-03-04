@@ -1,0 +1,16 @@
+User count: 2
+Task count: 2
+
+User info for admin: 
+Tasks: 1
+% of Tasks: 50.0
+Complete: 100.0
+Incomplete: 0.0
+Overdue: 0.0
+
+User info for Jay: 
+Tasks: 1
+% of Tasks: 50.0
+Complete: 100.0
+Incomplete: 0.0
+Overdue: 0.0
